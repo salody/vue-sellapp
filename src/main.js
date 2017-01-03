@@ -9,6 +9,7 @@ import seller from 'components/seller/seller';
 import ratings from 'components/ratings/ratings';
 
 import './common/scss/index.scss';
+import '../static/css/animate.css';
 
 Vue.use(VueRouter);
 Vue.use(VueResource);
